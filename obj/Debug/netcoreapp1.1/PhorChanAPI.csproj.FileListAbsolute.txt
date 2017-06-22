@@ -1,0 +1,8 @@
+/Users/conner/Documents/PhorChanAPI/bin/Debug/netcoreapp1.1/PhorChanAPI.deps.json
+/Users/conner/Documents/PhorChanAPI/bin/Debug/netcoreapp1.1/PhorChanAPI.runtimeconfig.json
+/Users/conner/Documents/PhorChanAPI/bin/Debug/netcoreapp1.1/PhorChanAPI.runtimeconfig.dev.json
+/Users/conner/Documents/PhorChanAPI/bin/Debug/netcoreapp1.1/PhorChanAPI.dll
+/Users/conner/Documents/PhorChanAPI/bin/Debug/netcoreapp1.1/PhorChanAPI.pdb
+/Users/conner/Documents/PhorChanAPI/obj/Debug/netcoreapp1.1/PhorChanAPI.AssemblyInfo.cs
+/Users/conner/Documents/PhorChanAPI/obj/Debug/netcoreapp1.1/PhorChanAPI.dll
+/Users/conner/Documents/PhorChanAPI/obj/Debug/netcoreapp1.1/PhorChanAPI.pdb
